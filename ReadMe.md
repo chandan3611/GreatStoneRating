@@ -37,3 +37,12 @@ The tag column is a unique identifier and is also the same as the id.(i.e tag = 
 
 # Train and Test Data:
 The train & test data are both provided in the CSVs described above as part of the same file. You need to segregate the training & test data based on where the greatstone ratings are provided. Go through the files carefully to understand how you can segregate both the datas. Please maintain the ordering of the test data. You can use the sample submission file in order to get ID of the test data.(check sample_submission.csv)
+
+
+# Evaluation Metric
+Mean Precision Value - Mean of precision of all the classes = P1+P2….. P6/6 Here P1 is Precision of
+Class 1 and P2 is Precision of Class2 and so on and so forth.
+
+# Submission Format
+You need to submit the csv format file with 2 columns in the order - fund_id and greatstone_rating using the test dataset.
+Please make sure the format of your file is exactly the same as mentioned above (order of ids is maintained, letter format etc).
