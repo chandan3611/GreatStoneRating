@@ -12,16 +12,26 @@ The following files are provided in the form of CSVs. These files contain variou
 bond_ratings, fund_allocations, fund_config, fund_ratios, fund_specs, oth-er_specs, return_3year, return_5year, return_10year.
 
 # Files Description:
-bond_ratings consists of 12 columns which provide information on the bond rating percentage allocation of the mutual funds
-fund_allocations consists of 12 columns which provide information on the sector wise percentage allocation of the mutual funds
-fund_config comprises of 4 columns which comprise the metadata of the mutual funds
-fund_ratios consists of 8 columns which provides information on various fundamental ratios that describe the mutual funds
-fund_specs contains 9 columns which give information about the specifi-cations of the mutual funds
-other_specs contains 43 columns which give information of the other aspects of the mutual funds
-return_3years contains 17 columns which give information about 3 year return and ratios
-return_5years contains 17 columns which give information about 5 year return and ratios
-return_10years contains 17 columns which give information about 10 year return and ratios
+bond_ratings consists of 12 columns which provide information on the bond rating percentage allocation of the mutual funds.
+
+fund_allocations consists of 12 columns which provide information on the sector wise percentage allocation of the mutual funds.
+
+fund_config comprises of 4 columns which comprise the metadata of the mutual funds.
+
+fund_ratios consists of 8 columns which provides information on various fundamental ratios that describe the mutual funds.
+
+fund_specs contains 9 columns which give information about the specifi-cations of the mutual funds.
+
+other_specs contains 43 columns which give information of the other aspects of the mutual funds.
+
+return_3years contains 17 columns which give information about 3 year return and ratios.
+
+return_5years contains 17 columns which give information about 5 year return and ratios.
+
+return_10years contains 17 columns which give information about 10 year return and ratios.
+
 sample_submission contains the fund ids for which you need to provide the ratings for the submission file. Please maintain the order of the fund ids as shown in this file.
+
 The tag column is a unique identifier and is also the same as the id.(i.e tag = id) *Please note that the details regarding what each column signifies has not been provided and it a part of the hackathon to read and figure out what each column represents.
 
 
